@@ -1,0 +1,14 @@
+{
+  "name": "prime",
+  "version": "1.0.0",
+  "description": "\"Hello\"",
+  "main": "npm start",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "arman",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^17.1.0"
+  }
+}
